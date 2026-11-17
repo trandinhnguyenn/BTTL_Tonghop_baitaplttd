@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+server/students.json
+__pycache__/
